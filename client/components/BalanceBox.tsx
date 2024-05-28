@@ -1,5 +1,5 @@
 import React from "react";
-import AnimatedCounter from "./AnimatedCounter";
+import AnimatedCounter from "@/components/AnimatedCounter";
 import Image from "next/image";
 
 const TotalBalance = ({ totalCurrentBalance }: { totalCurrentBalance: number }) => {
